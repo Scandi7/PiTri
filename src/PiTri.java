@@ -22,7 +22,7 @@ public class PiTri {
                     }
                     b++;
                 }
-                a++;
+                a++;//
             }
         } else if (args.length == 3) { //проверить три числа
             int a = Integer.parseInt(args[0]);
